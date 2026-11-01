@@ -3,13 +3,6 @@ End-to-end E-commerce Data Engineering project using Databricks, PySpark, and Me
 
 ---
 
-## 📌 Credits & Attribution
-
-> **Original Project Author:** [Amar Dongare (dongareajar-dotcom)](https://github.com/dongareajar-dotcom)
-> **Original Repository:** [github.com/dongareajar-dotcom/databricks-ecommerce-etl-pipeline](https://github.com/dongareajar-dotcom/databricks-ecommerce-etl-pipeline)
->
-> This project was studied and reproduced by **Yogesh Mishra** for learning purposes as part of a Databricks & PySpark Data Engineering skill-building journey.
-> All original logic, design, and architecture credit belongs to the original author.
 
 ---
 
